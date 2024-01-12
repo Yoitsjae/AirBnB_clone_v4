@@ -156,7 +156,8 @@ No known bugs at this time.
 ## Authors
 Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)  
-Jae Ncube - [Github](https://github.com/Yoitsjae) 
+Jae Ncube - [Github](https://github.com/Yoitsjae)
+Paulina Udeh - [Github](https://github.com/paulina351) 
 Jhoan Zamora - Github / Twitter
 David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)
 
